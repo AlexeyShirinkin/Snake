@@ -2,7 +2,7 @@
 
 namespace Snake
 {
-    class GameForm : Form
+    internal class GameForm : Form
     {
         private Timer timer;
         private GameModel game;

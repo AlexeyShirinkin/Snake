@@ -1,14 +1,13 @@
-﻿namespace Snake
+﻿namespace Snake;
+
+public enum Cell
 {
-    public enum Cell
-    {
-        Empty,
-        Snake,
-        Wall,
-        Food,
-        Defence,
-        SharpTeeth,
-        MagicClock,
-        ReverseItem
-    }
+    Empty,
+    Snake,
+    Wall,
+    Food,
+    Defence,
+    SharpTeeth,
+    MagicClock,
+    ReverseItem
 }

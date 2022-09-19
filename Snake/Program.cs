@@ -1,12 +1,9 @@
-﻿using System.Windows.Forms;
+﻿namespace Snake;
 
-namespace Snake
+internal static class Program
 {
-    static class Program
+    private static void Main()
     {
-        static void Main()
-        {
-            Application.Run(new GameForm());
-        }
+        Application.Run(new GameForm());
     }
 }
