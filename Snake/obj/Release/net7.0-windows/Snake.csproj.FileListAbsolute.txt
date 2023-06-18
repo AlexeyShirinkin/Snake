@@ -1,0 +1,15 @@
+C:\Users\Алексей\RiderProjects\Snake\Snake\bin\Release\net7.0-windows\Snake.exe
+C:\Users\Алексей\RiderProjects\Snake\Snake\bin\Release\net7.0-windows\Snake.deps.json
+C:\Users\Алексей\RiderProjects\Snake\Snake\bin\Release\net7.0-windows\Snake.runtimeconfig.json
+C:\Users\Алексей\RiderProjects\Snake\Snake\bin\Release\net7.0-windows\Snake.dll
+C:\Users\Алексей\RiderProjects\Snake\Snake\bin\Release\net7.0-windows\Snake.pdb
+C:\Users\Алексей\RiderProjects\Snake\Snake\obj\Release\net7.0-windows\Snake.csproj.AssemblyReference.cache
+C:\Users\Алексей\RiderProjects\Snake\Snake\obj\Release\net7.0-windows\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\RiderProjects\Snake\Snake\obj\Release\net7.0-windows\Snake.AssemblyInfoInputs.cache
+C:\Users\Алексей\RiderProjects\Snake\Snake\obj\Release\net7.0-windows\Snake.AssemblyInfo.cs
+C:\Users\Алексей\RiderProjects\Snake\Snake\obj\Release\net7.0-windows\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\RiderProjects\Snake\Snake\obj\Release\net7.0-windows\Snake.dll
+C:\Users\Алексей\RiderProjects\Snake\Snake\obj\Release\net7.0-windows\refint\Snake.dll
+C:\Users\Алексей\RiderProjects\Snake\Snake\obj\Release\net7.0-windows\Snake.pdb
+C:\Users\Алексей\RiderProjects\Snake\Snake\obj\Release\net7.0-windows\Snake.genruntimeconfig.cache
+C:\Users\Алексей\RiderProjects\Snake\Snake\obj\Release\net7.0-windows\ref\Snake.dll

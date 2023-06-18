@@ -1,4 +1,7 @@
-﻿namespace Snake;
+﻿using System.Collections.Generic;
+using System.Drawing;
+
+namespace Snake;
 
 internal static class GameLevels
 {
